@@ -1,0 +1,13 @@
+/* Css Module */
+
+.heading{
+    color:antiquewhite;
+}
+
+.img{
+    width: 200px;
+}
+
+.card{
+    border: 1px solid green;
+}
