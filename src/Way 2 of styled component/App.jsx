@@ -1,4 +1,8 @@
-// Way 2 of styled component
+// way 2 of styled component , 2nd way of apply style by {} assuming obj
+import Header from "./Header";
+import ToDo from "./ToDo";
+import { useEffect, useState } from "react";
+import UserProfile from "./userProfile";
 import styled from "styled-components";
 
 function App() {
@@ -11,6 +15,14 @@ function App() {
     paddin:"10px"
   })
 
+  const Styled=styled.button`
+   color:black;
+   margin:30px;
+   
+    borderRadius:20px;
+    padding:10px;
+  `;
+
   return (
     <>
       <h1>Style with styled-components</h1>
@@ -20,6 +32,7 @@ function App() {
       <Heading>Hello Heading</Heading>
       <Heading>Hello Heading</Heading>
       <Heading>Hello Heading</Heading>
+      <Styled onClick={()=>alert("Done")}>Click me</Styled>
     </>
   );
 }
