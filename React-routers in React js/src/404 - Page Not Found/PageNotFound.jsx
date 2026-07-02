@@ -1,0 +1,17 @@
+import { Link } from "react-router-dom";
+
+function PageNotFound() {
+    return (
+        <div style={{textAlign:"center"}}>
+            <h1>404 - Page Not Found</h1>
+            <p>The page you are looking for does not exist.</p>
+            <div>
+                <Link to="/">Go to home page</Link>
+            </div>
+            
+            <img style={{width:"400px"}} src="data:image/png;base64,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" alt="" />
+        </div>
+    );
+}
+
+export default PageNotFound
