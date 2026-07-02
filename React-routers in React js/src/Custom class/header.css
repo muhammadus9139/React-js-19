@@ -1,0 +1,12 @@
+.normalLink {
+  text-decoration: none;
+  color: black;
+  margin: 10px;
+}
+
+.activeLink {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+  margin: 10px;
+}
