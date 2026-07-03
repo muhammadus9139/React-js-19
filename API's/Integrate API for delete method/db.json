@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "usama",
+      "email": "muhammadus@gmail.com",
+      "age": "20",
+      "id": "oPMl8B5e7OM"
+    },
+    {
+      "name": "ali",
+      "email": "ali@gmail.com",
+      "age": "21",
+      "id": "ertTR3RMnrc"
+    },
+    {
+      "name": "ahmad",
+      "email": "ahmad@gmail.com",
+      "age": "23",
+      "id": "VEA2tHljBfk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
