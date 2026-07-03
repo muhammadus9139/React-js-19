@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "name": "usama",
+      "age": 20,
+      "email": "usama@.com",
+      "id": "Hyi5Ua-5yf4"
+    },
+    {
+      "name": "ahsan",
+      "age": 21,
+      "email": "ahsan@.com",
+      "id": "GG-lLhxfHB0"
+    },
+    {
+      "name": "ahmad",
+      "age": 23,
+      "email": "ahmad@.com",
+      "id": "wOmkJhhj1Qw"
+    },
+    {
+      "name": "ali",
+      "age": 19,
+      "email": "ali@.com",
+      "id": "0W4_WYJMBmc"
+    },
+    {
+      "name": "usama",
+      "email": "muhammadus@gmail.com",
+      "age": "20",
+      "id": "oPMl8B5e7OM"
+    },
+    {
+      "name": "",
+      "email": "",
+      "age": "",
+      "id": "Do7UywF8fA8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
