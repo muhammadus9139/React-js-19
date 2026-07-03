@@ -1,0 +1,26 @@
+// db.json
+
+{
+    "users":[
+        {
+            "name":"usama",
+            "age":20,
+            "email":"usama@.com"
+        },
+        {
+            "name":"ahsan",
+            "age":21,
+            "email":"ahsan@.com"
+        },
+        {
+            "name":"ahmad",
+            "age":23,
+            "email":"ahmad@.com"
+        },
+        {
+            "name":"ali",
+            "age":19,
+            "email":"ali@.com"
+        }
+    ]
+}
