@@ -1,0 +1,563 @@
+React JS Complete Learning Roadmap
+==>React JS
+1. Introduction and Basic Code
+Introduction to React JS
+Basic React code structure
+Understanding React project setup
+
+2. Components
+What are components?
+Why do we use components?
+Creating and using components
+
+3. Import and Export Components
+Import and export components
+Import and export const variables
+Understanding component file structure
+
+4. JSX and React Without JSX
+What is JSX?
+Why do we use JSX?
+Writing React without JSX
+Difference between JSX and regular JavaScript
+
+5. JSX Exercise with Component and Image
+Create a component using JSX
+Add images inside JSX
+Understand JSX structure through practical examples
+
+6. JSX with Curly Braces { }
+
+Using JavaScript inside JSX:
+
+Variables
+Conditions
+Functions
+Operations
+Objects
+Arrays
+HTML tag properties with JSX
+
+7. Click Events and Function Calls in React
+Click events in React
+Difference between JavaScript and React function calls
+Create buttons and handle click events
+Call functions on button click
+Call arrow functions
+Pass parameters with function calls
+Different ways to pass functions in React
+
+8. State in React JS
+What is state?
+React without state
+React with state example
+Introduction to hooks
+Why we use state
+State examples
+State in different components
+Managing multiple states
+
+9. Toggle, Hide and Show in React
+Toggle functionality
+Update state on button click
+Add conditions for toggle
+Hide and show components
+
+10. Multiple Conditions in React JS
+Handling multiple conditions
+Conditional rendering techniques
+
+11. Props in React JS
+What are props?
+Create components with props
+Pass data using props
+Pass variables, objects, and arrays with props
+Receive and display data using props
+Pass data with click events using props and state
+
+12. Default Props and JSX Props
+Default props
+Pass JSX with props
+Change styles using props
+
+13. Get Input Field Value in React JS
+Create input fields
+Define state
+Store input values in state
+Display input values
+Clear input field values
+Clear displayed state values
+
+14. Controlled Components
+What are controlled components?
+Identify controlled components
+Problems when controlled components are not used properly
+Create forms
+Get and display input field values
+
+15. Checkbox in React JS
+Create checkbox
+Define state for checkbox
+Get checkbox value in state
+Remove checkbox value from state
+
+16. Radio Button and Dropdown in React JS
+Create radio buttons
+Get radio button value in state
+Default selection of radio button
+Create dropdown
+Get dropdown value in state
+Default selection in dropdown
+
+17. Loops in JSX Using Map Function
+Loop in JSX
+Create arrays
+Display array data
+Create tables using JSX
+Use map function for looping
+  
+18. Reuse Components in Loops
+Create reusable components
+Apply map function for looping
+Render components inside loops
+Pass data to components inside loops
+Add styling
+
+19. Nested Looping in React
+Understanding array structure for nested loops
+Outer loop and inner loop
+Create components for outer loop
+Create components for inner loop
+
+20. Hooks in React JS
+Why do we need hooks?
+History of React hooks
+Hook names
+How to identify hooks
+Popular React hooks
+
+21. useEffect Hook in React JS
+What is the use of useEffect?
+Example of useEffect
+Syntax of useEffect
+useEffect with state
+Remove side effects inside components
+Remove side effects from outside components
+Fetch data using useEffect
+Use useEffect as a lifecycle method
+DOM manipulation using useEffect
+22. Handling Props Side Effects with useEffect
+Handle props side effects in components
+Create components
+Pass components
+Apply useEffect to handle side effects
+Pass props as dependencies in useEffect
+23. Component Lifecycle in React
+What is component lifecycle?
+Lifecycle of React components
+Different phases of component lifecycle
+Handle lifecycle using useEffect
+24. Styling React Applications
+
+Types of styling in React JS:
+
+Inline CSS
+External CSS
+CSS Modules
+Styled Components
+External CSS libraries/frameworks
+
+25. Inline Styling in React
+How React inline style is different from regular inline style
+Create user profile card using HTML and inline styles
+Use JavaScript objects for styling
+Create multiple user profile cards
+
+26. Dynamic and Conditional Styling
+Create dynamic styles
+Apply conditional styling
+Create dynamic button styles
+Use state for style objects
+Update styles on button click
+
+27. External CSS in React
+Create external CSS files
+Import CSS files into components
+Apply external styling in React components
+
+28. CSS Modules in React
+Why do we need CSS Modules?
+Create CSS Module files
+Write module CSS
+Import CSS Modules into components
+Apply module-based styling
+
+29. Styled Components in React
+What are styled components?
+Install and import styled components
+Apply styled components
+Write styles using components
+
+30. Bootstrap in React JS
+Add Bootstrap to React project
+Install Bootstrap
+Import Bootstrap in React
+Use Bootstrap components
+
+Examples:
+
+Buttons
+Alerts
+Other Bootstrap UI components
+
+31. useRef Hook in React JS
+What is useRef?
+How to use useRef?
+Control input fields with useRef
+Hide and show input fields using useRef
+
+32. Uncontrolled Components
+What are uncontrolled components?
+Create uncontrolled components using query selector
+Create uncontrolled components using useRef
+
+33. Passing Functions as Props
+Pass functions from parent component to child component
+Create parent and child components
+Call parent functions from child components
+
+34. ForwardRef in React
+What is forwardRef in React JS?
+Implement forwardRef before React 19
+Implement forwardRef in React 19
+
+35. useFormStatus Hook in React JS
+What is useFormStatus?
+Why do we use useFormStatus?
+Example of useFormStatus
+Create forms
+Handle form submission
+
+36. useTransition Hook in React JS
+What is useTransition?
+Why do we use useTransition?
+Create buttons
+Apply logic using useTransition
+
+37. Keep Your Components Pure
+Pure functions in React
+Pure components
+Example of impure components
+Avoid impure components
+Example of pure components
+
+38. Derived State in React
+What is derived state?
+Understand derived state with examples
+How derived state improves performance
+
+39. Lifting State Up in React JS
+What is lifting state up?
+Why do we need lifting state up?
+Create two components
+Share data between components
+
+40. Updating Objects in State
+Create objects in state
+Display object values
+Update object keys
+Update nested object keys
+
+41. Updating Arrays in State
+Display array data on UI
+Update array data
+Update objects inside arrays
+
+42. useActionState Hook
+What is useActionState?
+Why do we use useActionState?
+Create input forms
+Example of useActionState hook
+
+43. useId Hook
+What is useId?
+How to use useId?
+Example of useId
+
+44. Fragments in React JS
+What are fragments?
+Problems without fragments
+Example of React fragments
+
+45. Rules of React Hooks
+Rules for using hooks
+Examples of hook rules
+Common mistakes with hooks
+
+46. Context API in React JS
+What is Context API?
+How Context API works
+Create Context API example
+Update data using Context API
+
+47. Custom Hooks in React JS
+What are custom hooks?
+Why do we create custom hooks?
+Create a custom hook for toggle UI
+
+=>> React Router
+48. React Router
+Introduction to React Router
+Why do we need React Router?
+Testing React Router
+
+49. BrowserRouter, Router, Routes and Link
+What is BrowserRouter?
+What are routers?
+What is a router?
+What is Link in React Router?
+Create basic pages
+Create separate files for links
+Manage navigation using React Router
+
+50. Header with React Router
+Create HTML structure for header
+Add navigation links in header
+Add CSS styling for header
+Navigate between pages using header links
+
+51. 404 Page and Redirection
+What is a 404 page?
+Create a route for 404 page
+Create custom 404 page
+Redirect users from 404 page
+
+52. Nested Navigation with React Router
+What is nested navigation?
+Create pages for nested navigation
+Create routes for nested navigation
+Understand parent and child routes
+
+53. Layout and Index Routes
+What are layout routes?
+What are index routes?
+Create layout routes example
+Implement index routes
+
+54. Prefix Routes
+What are prefix routes?
+Create routes with common prefixes
+Manage route structures
+
+55. Dynamic Routes
+What are dynamic routes?
+Create user list page
+Create user detail page
+Implement dynamic routing
+
+56. Optional Segments
+What are optional segments?
+Static optional segments
+Dynamic optional segments
+
+57. React Router NavLink and Active Class
+What is NavLink?
+Difference between Link and NavLink
+Apply active class
+Apply custom classes with NavLink
+
+58. Tailwind CSS in React JS
+Introduction to Tailwind CSS
+Install Tailwind CSS in React
+Use Tailwind classes in components
+Build responsive UI using Tailwind CSS
+API Integration in React JS
+
+59. API Introduction
+What is API?
+Why do we need APIs?
+How frontend communicates with backend using APIs
+
+60. Fetch Data from API Using GET Method
+API methods
+Test APIs
+Integrate APIs in React
+Fetch data using GET method
+Display API data on UI
+
+61. Install JSON Server and Create API
+Install JSON Server
+Create db.json file
+Run JSON Server
+Create users API
+Test API using Thunder Client
+
+62. Integrate JSON Server API with Loader
+Create function for API calls
+Display API data on UI
+Handle common API errors
+Create loading state
+Display loader while fetching data
+
+63. Routes for User List and Add User UI
+Setup BrowserRouter around the app
+Create routes
+Create components
+Create links
+Test links, routes, and screens
+
+64. Integrate POST Method API
+Create input fields
+Create state for input values
+Get input field data in state
+Call POST API method
+Check saved data
+
+65. Integrate DELETE Method API
+Add delete button
+Call DELETE API
+Remove deleted data from UI
+Update UI after deletion
+
+66. Edit User Detail Page
+Add edit button
+Create edit page route
+Create edit page component
+Navigate to edit page
+Create input fields
+
+67. Populate Data in Input Fields Using API
+Get ID from URL
+Call API for single user data
+Store API response in state
+Display API data in input fields
+
+68. Update Data Using PUT API Method
+Update state values
+Create function for PUT API call
+Write code to update API data
+Redirect after successful update
+
+==> Advanced React Concepts
+
+69. Simple Validation in React JS
+Create input fields
+Define state to store input data
+Apply validation rules
+Display error messages
+Apply validation on multiple input fields
+
+70. Validation with useActionState in React JS
+Create form and input fields
+Create action function
+Apply validation using useActionState
+Display validation error messages
+
+71. useReducer Hook in React JS
+What is useReducer?
+Why do we need useReducer?
+Create input fields example
+Define default values for input fields
+Implement useReducer hook
+
+72. Lazy Loading in React JS
+What is lazy loading?
+Why do we use lazy loading?
+Implement lazy loading
+Use Suspense with lazy loading
+Check performance improvement
+
+73. use API in React JS 19
+What is use API?
+How use API works
+Example with actual REST API
+
+74. useOptimistic Hook in React 19
+What is useOptimistic?
+Why do we use useOptimistic?
+Example of useOptimistic
+Interview questions related to useOptimistic
+
+75. Activity in React
+What is Activity in React?
+What problem does Activity solve?
+Example of Activity
+
+76. useEffectEvent in React 19.2
+What is useEffectEvent?
+Problem statement
+Why do we need useEffectEvent?
+Solution using useEffectEvent
+
+==> Redux Toolkit
+
+77. Redux Toolkit Introduction
+Introduction to Redux Toolkit (RTK)
+Why do we need RTK?
+Redux vs Redux Toolkit
+
+78. Redux and RTK Architecture
+Main components of Redux
+Redux and RTK flow
+How Redux works
+Understanding Redux architecture
+
+79. React App and RTK Setup
+Create React JS application
+Install Redux and Redux Toolkit
+Create Redux Toolkit files
+Setup Redux store
+
+80. Create RTK Flow
+Create components
+Create slices
+Add reducers to store
+Call actions from components
+Understand complete RTK data flow
+
+81. Remove Data from Store
+Create remove item action
+Make remove from cart button
+Remove all items button
+Call actions from components
+
+82. Call Product API Using Redux Toolkit
+Create new slice
+API call inside Redux Toolkit
+Add reducer to store
+Call API actions from UI
+
+83. Display Product Listing
+Display products using map
+Render product list
+Apply styling to product cards
+
+84. Add Product to Cart
+Update slice for adding product data
+Store products in Redux store
+Use selectors for cart data
+Show added to cart button
+
+85. Persist and Remove Cart Data
+Store cart data in local storage
+Persist Redux state
+Create remove cart item button
+Update remove item action in slice
+
+86. Add Routing with Redux Toolkit
+Install React Router
+Create pages for cart items
+Add routing links
+Connect routing with Redux Toolkit
+
+87. Cart Item Listing
+Display cart items
+Show total number of items
+Calculate total price
+Apply styling to cart page
+
+88. Order and Clear Redux Value
+Create place order function
+Remove data from Redux store
+Remove data from local storage
+Clear cart after order
